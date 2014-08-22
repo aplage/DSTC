@@ -1,4 +1,4 @@
 DSTC
 ====
 
-Material from Data Scientist Toolbox kit
+Material from Data Scientist's Toolbox courses
